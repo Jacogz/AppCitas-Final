@@ -14,11 +14,11 @@ de computar sus gustos en base a la base de datos de gustos e intereses y la for
 ## Estructura de archivos
 
 **/Raíz del repositorio**<br>
-&ensp  **/.vscode**<br>
-&ensp    *Archivos de configuración para compilación, ejecución y path management*
+  **/.vscode**<br>
+  *Archivos de configuración para compilación, ejecución y path management*
 
-&emsp    launch.json<br>
-&emsp    settings.json<br>
+				launch.json<br>
+				settings.json<br>
 &emsp    tasks.json<br>
 
 &ensp  **/controllers**<br>
