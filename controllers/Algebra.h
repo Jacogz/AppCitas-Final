@@ -3,6 +3,8 @@
 
 #include <vector>
 
+//Módulo para cálculo y manipulación de vectores
+
 float getMagnitud(std::vector<float>* u);
 void normalizar(std::vector<float>* u);
 void sumar(std::vector<float>* u, std::vector<float>* v);

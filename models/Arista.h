@@ -12,6 +12,7 @@ class Arista{
 
         Arista(Perfil* perfilA, Perfil* perfilB);
 
+//Sobrecarga de operadores para comparación de aristas por su valor de compatibilidad
         bool operator==(const Arista& otra) const;
         bool operator!=(const Arista& otra) const;
         bool operator<(const Arista& otra) const;

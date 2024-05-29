@@ -4,6 +4,7 @@
 #include <string>
 #include <vector>
 
+//Estructura auxiliar para manejo y operación de los objetos en Gustos.json
 class Gusto{
     public:
         std::string desc;

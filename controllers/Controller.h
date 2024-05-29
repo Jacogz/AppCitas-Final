@@ -8,6 +8,7 @@
 #include <vector>
 #include <iostream>
 
+//Principal controlador, integra las funciones de Generador y Grafo
 class Controller{
     private:
         Grafo grafo;
