@@ -13,44 +13,44 @@ de computar sus gustos en base a la base de datos de gustos e intereses y la for
 
 ## Estructura de archivos
 
-**/Raíz del repositorio**<br>
-  **/.vscode**<br>
-  *Archivos de configuración para compilación, ejecución y path management*
+	**/Raíz del repositorio**<br>
+		**/.vscode**<br>
+*Archivos de configuración para compilación, ejecución y path management*
 
-				launch.json<br>
-				settings.json<br>
-&emsp    tasks.json<br>
+			launch.json<br>
+			settings.json<br>
+			tasks.json<br>
 
-&ensp  **/controllers**<br>
-&ensp    *Módulos para creación y manipulación de objetos*
+		**/controllers**<br>
+		*Módulos para creación y manipulación de objetos*
 
-&emsp    Algebra.h<br>
-&emsp    Algebra.cpp<br>
-&emsp    Controller.h<br>
-&emsp    Controller.cpp<br>
-&emsp    Generador.h<br>
-&emsp    Generador.cpp<br>
+			Algebra.h<br>
+			Algebra.cpp<br>
+			Controller.h<br>
+			Controller.cpp<br>
+			Generador.h<br>
+			Generador.cpp<br>
 
-&ensp  **/models**<br>
-&ensp    *Módulos para estructuración y almacenamiento de datos*
+		**/models**<br>
+		*Módulos para estructuración y almacenamiento de datos*
 
-&emsp    Arista.cpp<br>
-&emsp    Arista.h<br>
-&emsp    Grafo.cpp<br>
-&emsp    Grafo.h<br>
-&emsp    Perfil.cpp<br>
-&emsp    Perfil.h<br>
-&emsp    Gusto.h<br>
+			Arista.cpp<br>
+			Arista.h<br>
+			Grafo.cpp<br>
+			Grafo.h<br>
+			Perfil.cpp<br>
+			Perfil.h<br>
+			Gusto.h<br>
 
-&ensp  **/sources**<br>
-&ensp    *Archivos .json fuente para generación de perfiles*
+		**/sources**<br>
+		*Archivos .json fuente para generación de perfiles*
 
-&emsp       Nombres.json<br>
-&emsp       Gustos.json<br>
+			Nombres.json<br>
+			Gustos.json<br>
 
-&nbsp  json.hpp: Librería para manipulación de .json<br>
+		json.hpp: Librería para manipulación de .json<br>
 
-&nbsp  main.cpp: Entry point.<br>
+		main.cpp: Entry point.<br>
 
 # Uso:
 Para usar este código: <br>
