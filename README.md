@@ -15,7 +15,7 @@ de computar sus gustos en base a la base de datos de gustos e intereses y la for
 
 	**/Raíz del repositorio**<br>
 		**/.vscode**<br>
-*Archivos de configuración para compilación, ejecución y path management*
+		*Archivos de configuración para compilación, ejecución y path management*
 
 			launch.json<br>
 			settings.json<br>
