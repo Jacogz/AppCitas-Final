@@ -13,44 +13,44 @@ de computar sus gustos en base a la base de datos de gustos e intereses y la for
 
 ## Estructura de archivos
 
-	**/Raíz del repositorio**<br>
-		**/.vscode**<br>
+	/Raíz del repositorio
+		/.vscode
 		*Archivos de configuración para compilación, ejecución y path management*
 
-			launch.json<br>
-			settings.json<br>
-			tasks.json<br>
+			launch.json
+			settings.json
+			tasks.json
 
-		**/controllers**<br>
+		/controllers
 		*Módulos para creación y manipulación de objetos*
 
-			Algebra.h<br>
-			Algebra.cpp<br>
-			Controller.h<br>
-			Controller.cpp<br>
-			Generador.h<br>
-			Generador.cpp<br>
+			Algebra.h
+			Algebra.cpp
+			Controller.h
+			Controller.cpp
+			Generador.h
+			Generador.cpp
 
-		**/models**<br>
+		/models
 		*Módulos para estructuración y almacenamiento de datos*
 
-			Arista.cpp<br>
-			Arista.h<br>
-			Grafo.cpp<br>
-			Grafo.h<br>
-			Perfil.cpp<br>
-			Perfil.h<br>
-			Gusto.h<br>
+			Arista.cpp
+			Arista.h
+			Grafo.cpp
+			Grafo.h
+			Perfil.cpp
+			Perfil.h
+			Gusto.h
 
-		**/sources**<br>
+		/sources
 		*Archivos .json fuente para generación de perfiles*
 
 			Nombres.json<br>
 			Gustos.json<br>
 
-		json.hpp: Librería para manipulación de .json<br>
+		json.hpp: Librería para manipulación de .json
 
-		main.cpp: Entry point.<br>
+		main.cpp: Entry point.
 
 # Uso:
 Para usar este código: <br>
