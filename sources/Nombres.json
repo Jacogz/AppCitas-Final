@@ -1,0 +1,47 @@
+{
+    "nombres": [
+        "Jacobo",
+        "Maria",
+        "John",
+        "Cata",
+        "Alejandro",
+        "Daniela",
+        "Samuel",
+        "Amalia",
+        "Germán",
+        "Rosa",
+        "Fernando",
+        "Juana",
+        "Miguel",
+        "Ana",
+        "Luis",
+        "Carolina",
+        "Damian",
+        "Gabriela",
+        "Cristian",
+        "Carmen"
+    ],
+
+    "apellidos": [
+        "Giraldo",
+        "Zuluaga",
+        "Gomez",
+        "Botero",
+        "Puerta",
+        "Ochoa",
+        "Perez",
+        "Parra",
+        "Cardona",
+        "Bolivar",
+        "Gallego",
+        "Marquez",
+        "Martinez",
+        "Jaramillo",
+        "Galvis",
+        "Fernandez",
+        "Bohorquez",
+        "Vargas",
+        "Correa",
+        "Diaz"
+    ]
+}
